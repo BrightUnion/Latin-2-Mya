@@ -16,6 +16,8 @@
 
 欢迎关注光明联盟。
 
+![光明联盟宣传图](https://brightunion.github.io/img/bu.png)
+
 ---
 
 © 2022 Bright Union
